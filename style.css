@@ -1,0 +1,52 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    background-color: #252525 !important;
+    -webkit-user-select: none; /* Chrome all / Safari all */
+    -moz-user-select: none; /* Firefox all */
+    -ms-user-select: none; /* IE 10+ */
+    user-select: none; 
+  }
+  .text {
+  /*   --bs-text-opacity: 1; */
+    color: #F05D5E !important;
+  }
+  .navbar{
+    background-color: #252525 !important;
+  }
+  .nav-link{
+    color:#dadce2 !important;
+  }
+  .p-60{
+   padding-left: 40%;
+  }
+  .skills{
+    color:#878992 !important;  
+  }
+  
+  .text-dark{
+    width: 1rem;
+    color: #F05D5E !important;
+  }
+  img{
+    position: absolute;
+    width:50%
+  }
+  @media(max-width:900px){  
+  .social-media{
+    margin-top: 50px !important;
+  }
+  }
+  .lines{
+    display: block;
+    width: 1rem;
+    background-color: #F05D5E !important;
+    height:30vmin;
+  }
+  .btn-link{
+    color:#dadce2
+  }
+  .fixed-bottom{
+    color:#dadce2
+  }
+  
