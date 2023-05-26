@@ -5,7 +5,7 @@ This is my first website's repository contains the source code for a simple web 
 ## Demo
 ![Portfolio Screenshot](https://drive.google.com/uc?export=view&id=1hBkM0vp-olIGxuL1R3Cv4FkMHqml6dsB)
 
-You can visit the live website [here](https://replit.com/@viditkushwaha/PortFolio)
+You can visit the live website [here](https://portfolio.viditkushwaha.repl.co)<!--{:target="_blank"} -->
 
 
 ## Features
